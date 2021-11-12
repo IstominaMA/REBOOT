@@ -1,2 +1,2 @@
-# REDOOT
+# REBOOT
 Школа Data Analyst
