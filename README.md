@@ -1,0 +1,2 @@
+# REDOOT
+Школа Data Analyst
